@@ -1,0 +1,5 @@
+composio==0.21.1
+composio-openai
+openai
+python-dotenv
+pandas
